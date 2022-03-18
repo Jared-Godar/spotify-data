@@ -20,7 +20,7 @@ Read an [interesting article](https://towardsdatascience.com/visualizing-spotify
 - [x] Read README.md
 - [ ] Request data from Spotify [here](https://www.spotify.com/us/account/privacy/). It'll take a couple days until this is ready.
 - [ ] Fork and download this repository.
-- [ ] Move your downloaded Spotify Data into the repository.
+- [ ] Move your downloaded Spotify Data into the repository. Add this folder to your `.gitignore` as it does contain personal information.
 - [ ] Check `requirements.txt1. Make virtual environment if necessary. (Not too many requirements for this project).
 - [ ] Make an `env.py` file with your Spotify `CLIENT_ID` and `CLIENT_SECRET`. Be sure to add this file to your `.gitignore`. If you need a Spotify for Developers account to get these, you can [get one here](https://developer.spotify.com/dashboard/).
 - [ ] Run Notebook
